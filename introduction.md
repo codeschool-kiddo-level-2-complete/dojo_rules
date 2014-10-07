@@ -10,3 +10,4 @@ My favorite Code School are HTML &CSS,JavaScript,Backbone JS,Angular JS,rebase,I
 * Hadoop
 * Pig
 * HBASE
+* BigData
