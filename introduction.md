@@ -1,4 +1,4 @@
-I love PHP
+I love Ruby
 
 * Ruby
 * JavaScript
