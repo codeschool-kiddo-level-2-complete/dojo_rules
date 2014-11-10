@@ -6,3 +6,4 @@ Kill List
 * BILL
 * O'Reilly
 * Programmer Decoder
+* Vishta Brown
