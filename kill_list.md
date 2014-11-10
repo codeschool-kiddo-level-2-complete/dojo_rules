@@ -7,3 +7,4 @@ Kill List
 * O'Reilly
 * Programmer Decoder
 * Vishta Brown
+* Oswald
