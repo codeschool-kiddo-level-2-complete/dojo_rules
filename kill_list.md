@@ -6,4 +6,4 @@ Kill List
 * BILL
 * O'Reilly
 * Gates
-* Blue Decoder
+* Blue Decoders
