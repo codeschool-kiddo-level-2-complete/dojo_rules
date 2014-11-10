@@ -5,4 +5,6 @@ Kill List
 * Elle Driver
 * BILL
 * O'Reilly
-* Gates
+* Programmer Decoder
+* Vishta Brown
+* Oswald
