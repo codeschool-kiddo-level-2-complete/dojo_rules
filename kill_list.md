@@ -5,4 +5,4 @@ Kill List
 * Elle Driver
 * BILL
 * O'Reilly
-* Defacto
+* Gates
