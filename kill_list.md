@@ -7,4 +7,6 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* No Commenting 
+* too much comments
 
