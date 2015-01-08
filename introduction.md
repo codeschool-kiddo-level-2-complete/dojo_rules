@@ -1,5 +1,6 @@
-I love Ruby
+My favorite Code School Path is Git.
 
+* Git
 * Ruby
-* JavaScript
-* rebase
+* Adobe Photoshop
+* Killer rebase skills
