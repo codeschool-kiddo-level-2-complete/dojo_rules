@@ -5,3 +5,5 @@ Kill List
 *    Unformatted code
 *    Repeated code blocks
 *    Bad variable names
+
+I hate it when my code doesn't work.
