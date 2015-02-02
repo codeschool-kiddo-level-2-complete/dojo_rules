@@ -8,5 +8,5 @@ Kill List
 * WKJHWKJWH
 * WYWUYDEWJHWJHWDDHGW
 * wkjhdwkjdwjkhgdwgkhjdwghjk
-* Suamnsadmnbsad
+* Sussamnsadmnbsad
 * ljhasdljhsdaljhdsa
