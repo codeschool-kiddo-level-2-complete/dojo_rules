@@ -5,8 +5,7 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* WKJHWKJWH
-* WYWUYDEWJHWJHWDDHGW
-* wkjhdwkjdwjkhgdwgkhjdwghjk
-* Sussamnsadmnbsad
-* ljhasdljhsdaljhdsa
+* Division By Zero
+* Heap Errors
+* Overflow Errors
+
