@@ -1,5 +1,1 @@
-I love Ruby
-
-* Ruby
-* JavaScript
-* rebase
+I love Ruby and JavaScript!
